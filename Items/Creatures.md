@@ -64,38 +64,38 @@ An indexing file for creatures found in Aldraheimr.
 
 ## Sorted by type
 ### Beast
-Beasts are natural animals of the world.
+> Beasts are natural animals of the world.
 
 - [Glimmering Moth](Creatures/GlimmeringMoth.md)
 - [Great Leafbug](Creatures/GreatLeafbug.md)
 - [Manticore](Creatures/Manticore.md)
 
 ### Construct
-Constructs are artificial beings created by magic.
+> Constructs are artificial beings created by magic.
 
 - [Boneman](Creatures/Boneman.md)
 - [Gvarth](Creatures/Gvarth.md)
 
 ### Demi-human
-Demi-humans have an unknown origin, but their main defining feature is having the appearance of their animal half.
+> Demi-humans have an unknown origin, but their main defining feature is having the appearance of their animal half.
 
 - [Half-snake](Creatures/Halfsnake.md)
 
 ### Demon
-Demons are irredeemable monsters. Their very nature is evil, wicked, and cruel, and nothing can change that. The only way to permanently stop them is to slay them.
+> Demons are irredeemable monsters. Their very nature is evil, wicked, and cruel, and nothing can change that. The only way to permanently stop them is to slay them.
 
 - [Daeva](Creatures/Daeva.md)
 - [Raven Mocker](Creatures/RavenMocker.md)
 - [Wolfion](Creatures/Wolfion.md)
 
 ### Dragon
-Dragons are rare, secluded beings who stay far away from civilisation. There are only 400 of them throughout the world. Unlike the typical image of four-legged dragons, they have only two legs and two arms, their arms merged with their wings like a wyvern.
+> Dragons are rare, secluded beings who stay far away from civilisation. There are only 400 of them throughout the world. Unlike the typical image of four-legged dragons, they have only two legs and two arms, their arms merged with their wings like a wyvern.
 
 - [Fire Dragon](Creatures/FireDragon.md)
 - [Frost Dragon](Creatures/FrostDragon.md)
 
 ### Elemental
-Elementals are natural manifestations of the very heart of nature, forming in places where the weather is extreme or places that are surrounded by their type. (For example, stone giants may form on tall, jagged mountains.)
+> Elementals are natural manifestations of the very heart of nature, forming in places where the weather is extreme or places that are surrounded by their type. (For example, stone giants may form on tall, jagged mountains.)
 
 - [Earth Giant](Creatures/EarthGiant.md)
 - [Fire Spirit](Creatures/FireSpirit.md)
@@ -103,7 +103,7 @@ Elementals are natural manifestations of the very heart of nature, forming in pl
 - [Stone Giant](Creatures/StoneGiant.md)
 
 ### Fey
-Fey creatures are magical beings that are the most attuned to nature.
+> Fey creatures are magical beings that are the most attuned to nature.
 
 - [Centaur](Creatures/Centaur.md)
 - [Dryad](Creatures/Dryad.md)
@@ -114,13 +114,13 @@ Fey creatures are magical beings that are the most attuned to nature.
 - [Troll](Creatures/Troll.md)
 
 ### Revenant
-Revenants are corpses or cursed beings whose body and soul remain bound to the mortal world by curses, improper burial, or overwhelming will.
+> Revenants are corpses or cursed beings whose body and soul remain bound to the mortal world by curses, improper burial, or overwhelming will.
 
 - [Draugr](Creatures/Draugr.md)
 - [Krasue](Creatures/Krasue.md)
 - [Wraith](Creatures/Wraith.md)
 
 ### Spirit
-Spirits are souls that linger without a living body due to unusual magical or spiritual circumstances.
+> Spirits are souls that linger without a living body due to unusual magical or spiritual circumstances.
 
 - [Wisp](Creatures/Wisp.md)
