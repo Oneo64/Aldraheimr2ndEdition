@@ -114,13 +114,13 @@ Fey creatures are magical beings that are the most attuned to nature.
 - [Troll](Creatures/Troll.md)
 
 ### Revenant
-Revenants are undead beings that could not fully die because of a magical curse, an improper burial, or an exceedingly stubborn and prideful spirit.
+Revenants are corpses or cursed beings whose body and soul remain bound to the mortal world by curses, improper burial, or overwhelming will.
 
 - [Draugr](Creatures/Draugr.md)
 - [Krasue](Creatures/Krasue.md)
 - [Wraith](Creatures/Wraith.md)
 
 ### Spirit
-Spirits are extremely rare undead beings that could not fully die. One may become a spirit if they die whilst suffering from arcane poison, naturally pass away in their sleep, or via sorcerous rituals.
+Spirits are souls that linger without a living body due to unusual magical or spiritual circumstances.
 
 - [Wisp](Creatures/Wisp.md)
