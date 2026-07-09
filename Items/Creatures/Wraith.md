@@ -5,7 +5,7 @@
 	<tr> <td>Native to</td> <td>All over the world</td> </tr>
 </tbody></table>
 
-A wraith is a malevolent spirit cursed to become one after death. Because of this, many have grown to absolutely loathe the living, killing animals and humanoid creatures alike.
+A wraith is a malevolent spirit. They were cursed to become one after death, typically by something else in the living world. Because of this, many have grown to absolutely loathe the living, killing animals and humanoid creatures alike.
 
 ## Description
 Wraiths appear to be dark brown or ashy grey corpses reminiscent of their living self. They look rotten and decrepit, sometimes surrounded by an ethereal yet dirty aura. Some wield weapons and armour, especially if they were a warrior before their death.
