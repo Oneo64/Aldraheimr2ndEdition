@@ -13,10 +13,14 @@ An indexing file for creatures found in Aldraheimr.
 ###### General
 - [Draugr](Creatures/Draugr.md)
 - [Elven Spirit](Creatures/ElvenSpirit.md)
+- [Redcap](Creatures/Redcap.md)
 - [Troll](Creatures/Troll.md)
 
-###### Northmost
+###### Skóskaskjángi Island
 - [Frost Dragon](Creatures/FrostDragon.md)
+- [Ice Spirit](Creatures/IceSpirit.md)
+
+###### Þeyrík Island
 - [Ice Spirit](Creatures/IceSpirit.md)
 
 ### Central regions
@@ -54,3 +58,46 @@ An indexing file for creatures found in Aldraheimr.
 ## Sotjörðr
 - [Earth Giant](Creatures/EarthGiant.md)
 - [Stone Giant](Creatures/StoneGiant.md)
+
+## Sorted by type
+### Beast
+- [Glimmering Moth](Creatures/GlimmeringMoth.md)
+- [Great Leafbug](Creatures/GreatLeafbug.md)
+- [Manticore](Creatures/Manticore.md)
+
+### Construct
+- [Gvarth](Creatures/Gvarth.md)
+
+### Demon
+- [Daeva](Creatures/Daeva.md)
+- [Raven Mocker](Creatures/RavenMocker.md)
+
+### Dragon
+- [Fire Dragon](Creatures/FireDragon.md)
+- [Frost Dragon](Creatures/FrostDragon.md)
+
+### Elemental
+- [Earth Giant](Creatures/EarthGiant.md)
+- [Fire Spirit](Creatures/FireSpirit.md)
+- [Ice Spirit](Creatures/IceSpirit.md)
+- [Stone Giant](Creatures/StoneGiant.md)
+
+### Fey
+- [Centaur](Creatures/Centaur.md)
+- [Dryad](Creatures/Dryad.md)
+- [Elven Spirit](Creatures/ElvenSpirit.md)
+- [Faerie Hare](Creatures/FaerieHare.md)
+- [Redcap](Creatures/Redcap.md)
+- [Sea Wretch](Creatures/SeaWretch.md)
+- [Troll](Creatures/Troll.md)
+
+### Revenant
+- [Draugr](Creatures/Draugr.md)
+- [Krasue](Creatures/Krasue.md)
+- [Wraith](Creatures/Wraith.md)
+
+### Spirit
+- [Wisp](Creatures/Wisp.md)
+
+### Undead
+- [Boneman](Creatures/Boneman.md)

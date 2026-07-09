@@ -1,7 +1,7 @@
 # Vatakond
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Vatakond</th> </tr>
-	<tr> <td>Region</td> <td>Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
 	<tr> <td>Government</td> <td>Noocracy</td> </tr>
 	<tr> <td>Ruler</td> <td>Klivahon the Grim</td> </tr>
 	<tr> <td>Population</td> <td>~10,000 centaurs</td> </tr>

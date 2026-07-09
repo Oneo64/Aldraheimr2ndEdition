@@ -1,7 +1,7 @@
 # The Kingdom of Rotherland (Roþþerrlannd)
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Rotherland</th> </tr>
-	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Central-northern Myrkjörðr</td> </tr>
 	<tr> <td>Founding date</td> <td>AD 810</td> </tr>
 	<tr> <td>Government</td> <td>Constitutional Monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Bældhelm</td> </tr>

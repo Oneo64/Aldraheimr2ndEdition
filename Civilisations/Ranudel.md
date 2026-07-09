@@ -1,7 +1,7 @@
 # The Kingdom of Ranûdel
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Ranûdel</th> </tr>
-	<tr> <td>Region</td> <td>Eastern Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Central Myrkjörðr</td> </tr>
 	<tr> <td>Government</td> <td>Geniocractic Monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Vasôlas</td> </tr>
 	<tr> <td>Population</td> <td>~33,000 people</td> </tr>

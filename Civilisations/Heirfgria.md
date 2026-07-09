@@ -1,7 +1,7 @@
 # The Kingdom of Heirfgria
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Heirfgria</th> </tr>
-	<tr> <td>Region</td> <td>Southeastern Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Central Myrkjörðr</td> </tr>
 	<tr> <td>Government</td> <td>Noocracy</td> </tr>
 	<tr> <td>Ruler</td> <td>Gorflock the Wise</td> </tr>
 	<tr> <td>Population</td> <td>~6,000 centaurs</td> </tr>
