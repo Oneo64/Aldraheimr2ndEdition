@@ -36,7 +36,7 @@ An indexing file for creatures found in Aldraheimr.
 - [Glimmering Moth](Creatures/GlimmeringMoth.md)
 - [Stone Giant](Creatures/StoneGiant.md)
 
-### Southern regions (including Neshozia)
+### Southern regions
 ###### General
 - [Daeva](Creatures/Daeva.md)
 - [Half-snake](Creatures/Halfsnake.md)
