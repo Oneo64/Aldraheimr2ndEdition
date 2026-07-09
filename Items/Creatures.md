@@ -39,6 +39,7 @@ An indexing file for creatures found in Aldraheimr.
 ### Southern regions (including Neshozia)
 ###### General
 - [Daeva](Creatures/Daeva.md)
+- [Half-snake](Creatures/Halfsnake.md)
 - [Krasue](Creatures/Krasue.md)
 - [Manticore](Creatures/Manticore.md)
 - [Sea Wretch](Creatures/SeaWretch.md)
@@ -69,6 +70,9 @@ An indexing file for creatures found in Aldraheimr.
 
 ### Construct
 - [Gvarth](Creatures/Gvarth.md)
+
+### Demi-human
+- [Half-snake](Creatures/Halfsnake.md)
 
 ### Demon
 - [Daeva](Creatures/Daeva.md)
