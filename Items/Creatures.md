@@ -15,6 +15,7 @@ An indexing file for creatures found in Aldraheimr.
 - [Elven Spirit](Creatures/ElvenSpirit.md)
 - [Redcap](Creatures/Redcap.md)
 - [Troll](Creatures/Troll.md)
+- [Wolfion](Creatures/Wolfion.md)
 
 ###### Skóskaskjángi Island
 - [Frost Dragon](Creatures/FrostDragon.md)
@@ -29,6 +30,7 @@ An indexing file for creatures found in Aldraheimr.
 - [Krasue](Creatures/Krasue.md)
 - [Raven Mocker](Creatures/RavenMocker.md)
 - [Sea Wretch](Creatures/SeaWretch.md)
+- [Wolfion](Creatures/Wolfion.md)
 
 ###### The Mountains of Ranûdel
 - [Glimmering Moth](Creatures/GlimmeringMoth.md)
@@ -71,6 +73,7 @@ An indexing file for creatures found in Aldraheimr.
 ### Demon
 - [Daeva](Creatures/Daeva.md)
 - [Raven Mocker](Creatures/RavenMocker.md)
+- [Wolfion](Creatures/Wolfion.md)
 
 ### Dragon
 - [Fire Dragon](Creatures/FireDragon.md)
