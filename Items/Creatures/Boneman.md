@@ -1,7 +1,7 @@
 # Boneman
 <table><tbody>
 	<tr> <th colspan=2>Boneman</th> </tr>
-	<tr> <td>Type</td> <td>Undead</td> </tr>
+	<tr> <td>Type</td> <td>Construct</td> </tr>
 </tbody></table>
 
 A boneman is a skeleton reanimated by black magic.

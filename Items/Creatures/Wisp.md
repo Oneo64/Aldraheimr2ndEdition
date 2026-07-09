@@ -5,7 +5,7 @@
 	<tr> <td>Native to</td> <td>All over the world</td> </tr>
 </tbody></table>
 
-A wisp is an uncursed free spirit that, under rare circumstances, did not pass into full death. One may become a wisp if they die whilst suffering from arcane poison, naturally pass away in their sleep, or via sorcerous rituals.
+A wisp is an uncursed free spirit that, under rare circumstances, did not fully die.
 
 ## Description
 Wisps look like a tiny orb of light emanating faint mist. The light from their orbs only provides enough to faintly illuminate a small area.

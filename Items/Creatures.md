@@ -64,32 +64,47 @@ An indexing file for creatures found in Aldraheimr.
 
 ## Sorted by type
 ### Beast
+Beasts are natural animals of the world.
+
 - [Glimmering Moth](Creatures/GlimmeringMoth.md)
 - [Great Leafbug](Creatures/GreatLeafbug.md)
 - [Manticore](Creatures/Manticore.md)
 
 ### Construct
+Constructs are artificial beings created by magic.
+
+- [Boneman](Creatures/Boneman.md)
 - [Gvarth](Creatures/Gvarth.md)
 
 ### Demi-human
+Demi-humans have an unknown origin, but their main defining feature is having the appearance of their animal half.
+
 - [Half-snake](Creatures/Halfsnake.md)
 
 ### Demon
+Demons are irredeemable monsters. Their very nature is evil, wicked, and cruel, and nothing can change that. The only way to permanently stop them is to slay them.
+
 - [Daeva](Creatures/Daeva.md)
 - [Raven Mocker](Creatures/RavenMocker.md)
 - [Wolfion](Creatures/Wolfion.md)
 
 ### Dragon
+Dragons are rare, secluded beings who stay far away from civilisation. There are only 400 of them throughout the world. Unlike the typical image of four-legged dragons, they have only two legs and two arms, their arms merged with their wings like a wyvern.
+
 - [Fire Dragon](Creatures/FireDragon.md)
 - [Frost Dragon](Creatures/FrostDragon.md)
 
 ### Elemental
+Elementals are natural manifestations of the very heart of nature, forming in places where the weather is extreme or places that are surrounded by their type. (For example, stone giants may form on tall, jagged mountains.)
+
 - [Earth Giant](Creatures/EarthGiant.md)
 - [Fire Spirit](Creatures/FireSpirit.md)
 - [Ice Spirit](Creatures/IceSpirit.md)
 - [Stone Giant](Creatures/StoneGiant.md)
 
 ### Fey
+Fey creatures are magical beings that are the most attuned to nature.
+
 - [Centaur](Creatures/Centaur.md)
 - [Dryad](Creatures/Dryad.md)
 - [Elven Spirit](Creatures/ElvenSpirit.md)
@@ -99,12 +114,13 @@ An indexing file for creatures found in Aldraheimr.
 - [Troll](Creatures/Troll.md)
 
 ### Revenant
+Revenants are undead beings that could not fully die because of a magical curse, an improper burial, or an exceedingly stubborn and prideful spirit.
+
 - [Draugr](Creatures/Draugr.md)
 - [Krasue](Creatures/Krasue.md)
 - [Wraith](Creatures/Wraith.md)
 
 ### Spirit
-- [Wisp](Creatures/Wisp.md)
+Spirits are extremely rare undead beings that could not fully die. One may become a spirit if they die whilst suffering from arcane poison, naturally pass away in their sleep, or via sorcerous rituals.
 
-### Undead
-- [Boneman](Creatures/Boneman.md)
+- [Wisp](Creatures/Wisp.md)

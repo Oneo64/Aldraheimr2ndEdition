@@ -6,7 +6,7 @@
 	<tr> <td>Based on</td> <td>Draugr (Norse mythology)</td> </tr>
 </tbody></table>
 
-A draugr (Oddarish plural: *draugar*, Heorthlandic: *drog*, Icelandic: *draugur*) is a revenant who rises from the dead because they were cursed to keep living, weren't buried properly and couldn't pass into full death, or suffered humiliation so great that their stubborn spirit starts to seek revenge. Most of them come to be in the northern lands of Myrkjörðr.
+A draugr (Oddarish plural: *draugar*, Heorthlandic: *drog*, Icelandic: *draugur*) is a revenant who rises from the dead because they were cursed to keep living, weren't buried properly, or suffered humiliation so great that their stubborn spirit starts to seek revenge. Even though they can be found all over the world, most draugr are made in the northern region of Myrkjörðr.
 
 One way to prevent their rise is to ensure they lie down and have their hands and feet bound together.
 
