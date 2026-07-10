@@ -75,6 +75,7 @@ An indexing file for creatures found in Aldraheimr.
 
 - [Boneman](Creatures/Boneman.md)
 - [Gvarth](Creatures/Gvarth.md)
+- [Ivycraft](Creatures/Ivycraft.md)
 
 ### Demi-human
 > Demi-humans have an unknown origin, but their main defining feature is having the appearance of their animal half.

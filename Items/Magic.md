@@ -12,7 +12,8 @@ Druidry is a type of shamanic magic, traditionally practiced by women. Unless sh
 - **Talk to animals:** Anytime you want, you can speak Druidic or Sylvan to animals and have them understand your speech. They won't be able to respond in the same manner.
 - **Heal wounds:** By holding a beaded wooden bracelet in your other hand and hovering your palm over an open wound on a creature, you can slowly heal that wound. If the wound naturally results in a scar, then the scar is the result of the magically healed wound. A small cut is healed instantly; however, a wound such as a sword slash can take tens of minutes.
 - **Clense liquid:** By speaking an incantation and sticking your finger (it cannot be a severed finger) into a liquid contained in a mug, tankard, drinking horn, bowl, or anything similar, you can clean that liquid of all harmful substances such as poisons and dirt. Doing it to a pond probably isn't going to work.
-- **Shapeshift:** By chanting something, you can shift into any forest animal from your region that you've seen before.
+- **Make/control ivycraft (hard):** You can take control of an inert ivycraft vessel by chanting (it will become inert again if you stop). To create an ivycraft vessel, you must take several vines and intertwine/braid them, and then form them into the shape of an X (or a humanoid).
+- **Shapeshift (hard):** By chanting something in Druidic, you can shift into any forest animal from your region that you've seen before.
 
 ## Seiðr
 Seiðr is a type of shamanic magic, traditionally practised by women. It can be used to foresee events through omens, bewitch illnesses, and shapeshift.
