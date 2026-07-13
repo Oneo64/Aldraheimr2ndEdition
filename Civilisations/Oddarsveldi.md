@@ -11,7 +11,7 @@
 	<tr> <td>Cultural region</td> <td>Northern</td> </tr>
 	<tr> <td>Main culture</td> <td>Northmannish</td> </tr>
 	<tr> <td>Main religion</td> <td>Northern paganism</td> </tr>
-	<tr> <td>Languages</td> <td>Oddarish</td> </tr>
+	<tr> <td>Languages</td> <td>Northmannish</td> </tr>
 	<tr> <th colspan=2>Relations</th> </tr>
 	<tr> <td>Allies with</td> <td>Esrela<br>Heorthland</td> </tr>
 	<tr> <td>Wars with</td> <td>Wulfscithia<br>Vatakond</td> </tr>
@@ -56,16 +56,16 @@ Oddarish soldiers are required to bring their own weapons and armour. However, r
 - [Álahringr](../POI/Alahringr.md)
 - [Barastaðr](../POI/Barastadr.md)
 - Elkvinr
-- [Fjörðvík](../POI/Fjordvik.md)
+- [Fjørðvík](../POI/Fjordvik.md)
 - [Óssvík](../POI/Ossvik.md)
 - Skjorknauz
 
 ### In Þuryngard Ring Fortress
-- Þöllhringr
+- Þølhringr
 - Kjándallr
 - Vilsnagr
 
 ### Fortresses
 - Dreiksvirki
-- Hersgjöf
+- Hersgjøf
 - Ynguningr
