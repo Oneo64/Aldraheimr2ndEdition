@@ -7,7 +7,7 @@
 	<tr> <td>Hersir</td> <td>Bjarkúlfr</td> </tr>
 </tbody></table>
 
-Fjørðvík is a village built on a fjeld that overlooks the ocean, on the west coast of Oddarsveldi. It is isolated except for a natural bridge that connects it to the mainland. It is often a sightseeing point in the northern regions because of its oceanic scenery and fireflies.
+Fjørðvík is a village built on a small headland that overlooks the ocean, on the west coast of Oddarsveldi. It is isolated except for a natural bridge that connects it to the mainland. It is often a sightseeing point in the northern regions because of its oceanic scenery and fireflies.
 
 Fjørðvík is surrounded by a wooden fence, keeping people from falling off the cliff. There is a path that leads down to the shores, where there is a harbour.
 
