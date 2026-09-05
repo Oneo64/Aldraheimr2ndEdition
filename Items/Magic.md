@@ -58,11 +58,11 @@ Sorcery is most commonly practised in southern civilisations like Taribia, where
   - **Strengthen:** By chanting and keeping a hand on an object, you can cause it to become harder to dent and destroy.
   - **Warm:** By chanting and keeping a hand on an object, you can cause it to become warmer.
   - **Cool:** By chanting and keeping a hand on an object, you can cause it to become cooler.
-- **Fabrications:** Fabrications are spells that are exceedingly difficult to cast. By chanting their incantations, you can make their effects happen:
-  - **Explode:** By pointing at a spot, you cause that spot to glow with a speck of golden colour. If maintained for several seconds, it explodes like a firecracker.
+- **Fabrications:** Fabrications are spells that are exceedingly difficult to cast. Because of their difficulty, most sorcerers are only taught how to cast Strike. By chanting their incantations, you can make their effects happen:
+  - **Explode:** By pointing at a spot, you cause that spot to glow with a speck of golden colour. After you maintain the speck for several seconds, it explodes like a firecracker and harms anyone next to it.
   - **Mind-read:** By chanting and staring at someone's forehead, you can hear their thoughts.
   - **Shield:** A faint shimmering dome forms around your hand, allowing you to choose its position and direction. The dome acts like a physical shield: small strikes (like a sword or arrow) simply bounce off, but big strikes (like a catapulted rock) send you flying backwards. The dome is one-use only, disappearing after absorbing a strike.
-  - **Strike:** By speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand and strike a target with a faint flash of light. This projectile is as strong as your punch.
+  - **Strike:** By speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand and strike a target with a faint flash of light, which is as strong as your punch. If you cast the spell for several seconds longer, you can double the force of the projectile.
   - **Wind:** By speaking an incantation, you cause a strong, directed burst of wind to rush out of your hand.
 - **Necromancies:** Necromancy is a taboo practice and is deemed evil by most people. It is used to reanimate the dead, induce mind-control, and perform other immoral things. People have tried to remove it from the world, making it extremely obscure, longer to learn, and harder to cast. To cast necromantic magic, the sorcerer must hold a piece of onyx in one hand, a piece of obsidian in another, and chant an incantation.
 
