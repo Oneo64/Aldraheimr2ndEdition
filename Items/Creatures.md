@@ -49,6 +49,7 @@ An indexing file for creatures found in Aldraheimr.
 - [Fire Spirit](Creatures/FireSpirit.md)
 
 ###### Neshozia
+- [Crawler](Creatures/Crawler.md)
 - [Fire Dragon](Creatures/FireDragon.md)
 
 ## Veldalfheimr
@@ -107,6 +108,7 @@ An indexing file for creatures found in Aldraheimr.
 > Fey creatures are magical beings that are the most attuned to nature.
 
 - [Centaur](Creatures/Centaur.md)
+- [Crawler](Creatures/Crawler.md)
 - [Dryad](Creatures/Dryad.md)
 - [Elven Spirit](Creatures/ElvenSpirit.md)
 - [Faerie Hare](Creatures/FaerieHare.md)
