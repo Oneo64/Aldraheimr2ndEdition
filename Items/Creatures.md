@@ -13,7 +13,9 @@ An indexing file for creatures found in Aldraheimr.
 ###### General
 - [Draugr](Creatures/Draugr.md)
 - [Elven Spirit](Creatures/ElvenSpirit.md)
+- [Northern Human](Creatures/NorthernHuman.md)
 - [Redcap](Creatures/Redcap.md)
+- [Snow Elf](Creatures/SnowElf.md)
 - [Troll](Creatures/Troll.md)
 - [Wolfion](Creatures/Wolfion.md)
 
@@ -26,6 +28,7 @@ An indexing file for creatures found in Aldraheimr.
 
 ### Central regions
 ###### General
+- [Central Human](Creatures/CentralHuman.md)
 - [Great Leafbug](Creatures/GreatLeafbug.md)
 - [Krasue](Creatures/Krasue.md)
 - [Raven Mocker](Creatures/RavenMocker.md)
@@ -34,6 +37,7 @@ An indexing file for creatures found in Aldraheimr.
 
 ###### The Mountains of Ranûdel
 - [Glimmering Moth](Creatures/GlimmeringMoth.md)
+- [Moon Elf](Creatures/MoonElf.md)
 - [Stone Giant](Creatures/StoneGiant.md)
 
 ### Southern regions
@@ -47,10 +51,12 @@ An indexing file for creatures found in Aldraheimr.
 ###### The Taribian Desert
 - [Fire Dragon](Creatures/FireDragon.md)
 - [Fire Spirit](Creatures/FireSpirit.md)
+- [Southern Human](Creatures/SouthernHuman.md)
 
 ###### Neshozia
 - [Crawler](Creatures/Crawler.md)
 - [Fire Dragon](Creatures/FireDragon.md)
+- [Orc](Creatures/Orc.md)
 
 ## Veldalfheimr
 - [Centaur](Creatures/Centaur.md)
