@@ -122,6 +122,16 @@ An indexing file for creatures found in Aldraheimr.
 - [Sea Wretch](Creatures/SeaWretch.md)
 - [Troll](Creatures/Troll.md)
 
+### Humanoid
+> Humanoids are living, social, and intelligent creatures with two arms and two legs.
+
+- [Central Human](Creatures/CentralHuman.md)
+- [Northern Human](Creatures/NorthernHuman.md)
+- [Moon Elf](Creatures/MoonElf.md)
+- [Southern Human](Creatures/SouthernHuman.md)
+- [Snow Elf](Creatures/SnowElf.md)
+- [Orc](Creatures/Orc.md)
+
 ### Revenant
 > Revenants are corpses or cursed beings whose body and soul remain bound to the mortal world by curses, improper burial, or overwhelming will.
 
