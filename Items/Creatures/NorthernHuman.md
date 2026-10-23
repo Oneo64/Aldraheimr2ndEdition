@@ -1,5 +1,5 @@
 # Northern Human
-Northern humans live in the northern region of Myrkjörðr and make up the population of the kingdoms of Heorthland, Oddarsveldi, Rotherland, and Þeyrík. They are based on the Germanic peoples, especially the Norse.
+Northern humans live in the northern region of Myrkjörðr and make up the population of the kingdoms of Heorthland, Oddarsveldi, Rotherland, and Þeyrík. They are based on the Germanic peoples.
 
 ## Typical appearance
 Northern humans have fair and pale features, and typically have wavy hair and angular noses. They tend to keep their hair longer than others; for example, men's hair is typically shoulder-length, while women's hair can range from shoulder-length to waist-length. Men are more likely to grow a longer beard.
