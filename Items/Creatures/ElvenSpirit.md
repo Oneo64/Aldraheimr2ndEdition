@@ -3,7 +3,7 @@
 	<tr> <th colspan=2>Elven Spirit</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
 	<tr> <td>Native to</td> <td>Veldalfheimr<br>Northern Myrkjörðr</td> </tr>
-	<tr> <td>Based on</td> <td>Álfar (Norse mythology)</td> </tr>
+	<tr> <td>Based on</td> <td>Álfar & huldufólk (Norse mythology)</td> </tr>
 </tbody></table>
 
 An elven spirit (Oddarish: *álfr*, Icelandic: *álfur*) is a mysterious fey creature that dwells in secluded areas, especially dense forests, glades, and caves.
