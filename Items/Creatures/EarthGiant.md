@@ -1,6 +1,6 @@
-# Earth Giant
+# Earth giant
 <table><tbody>
-	<tr> <th colspan=2>Earth Giant</th> </tr>
+	<tr> <th colspan=2>Earth giant</th> </tr>
 	<tr> <td>Type</td> <td>Elemental</td> </tr>
 	<tr> <td>Native to</td> <td>Sotjörðr</td> </tr>
 </tbody></table>

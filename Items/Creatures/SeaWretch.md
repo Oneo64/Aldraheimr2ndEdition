@@ -1,4 +1,4 @@
-# Sea Wretch
+# Sea wretch
 <table><tbody>
 	<tr> <th colspan=2>Sea Wretch</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>

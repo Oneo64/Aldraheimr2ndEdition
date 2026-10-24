@@ -1,6 +1,6 @@
-# Fire Dragon
+# Fire dragon
 <table><tbody>
-	<tr> <th colspan=2>Fire Dragon</th> </tr>
+	<tr> <th colspan=2>Fire dragon</th> </tr>
 	<tr> <td>Type</td> <td>Dragon</td> </tr>
 	<tr> <td>Native to</td> <td>The Taribian Desert<br>Neshozia</td> </tr>
 	<tr> <td>Based on</td> <td>Dragon (The Elder Scrolls V: Skyrim)</td> </tr>

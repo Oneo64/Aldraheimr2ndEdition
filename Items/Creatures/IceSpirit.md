@@ -1,6 +1,6 @@
-# Ice Spirit
+# Ice spirit
 <table><tbody>
-	<tr> <th colspan=2>Ice Spirit</th> </tr>
+	<tr> <th colspan=2>Ice spirit</th> </tr>
 	<tr> <td>Type</td> <td>Elemental</td> </tr>
 	<tr> <td>Native to</td> <td>Northern Myrkjörðr</td> </tr>
 </tbody></table>

@@ -1,4 +1,4 @@
-# Southern Human
+# Southern human
 Southern humans live in the southern region of Myrkjörðr. They are based on ancient Persians.
 
 ## Typical appearance

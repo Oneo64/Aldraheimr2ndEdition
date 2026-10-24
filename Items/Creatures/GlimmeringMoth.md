@@ -1,6 +1,6 @@
-# Glimmering Moth
+# Glimmering moth
 <table><tbody>
-	<tr> <th colspan=2>Glimmering Moth</th> </tr>
+	<tr> <th colspan=2>Glimmering moth</th> </tr>
 	<tr> <td>Type</td> <td>Beast</td> </tr>
 	<tr> <td>Native to</td> <td>The Mountains of Ranûdel</td> </tr>
 </tbody></table>

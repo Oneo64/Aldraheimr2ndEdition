@@ -1,6 +1,6 @@
-# Elven Spirit
+# Elven spirit
 <table><tbody>
-	<tr> <th colspan=2>Elven Spirit</th> </tr>
+	<tr> <th colspan=2>Elven spirit</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
 	<tr> <td>Native to</td> <td>Veldalfheimr<br>Northern Myrkjörðr</td> </tr>
 	<tr> <td>Based on</td> <td>Álfar & huldufólk (Norse mythology)</td> </tr>

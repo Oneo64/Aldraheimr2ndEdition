@@ -1,4 +1,4 @@
-# Northern Human
+# Northern human
 Northern humans live in the northern region of Myrkjörðr and make up the population of the kingdoms of Heorthland, Oddarsveldi, Rotherland, and Þeyrík. They are based on the Germanic peoples.
 
 ## Typical appearance

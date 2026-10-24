@@ -1,6 +1,6 @@
-# Faerie Hare
+# Faerie hare
 <table><tbody>
-	<tr> <th colspan=2>Faerie Hare</th> </tr>
+	<tr> <th colspan=2>Faerie hare</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
 	<tr> <td>Native to</td> <td>Veldalfheimr</td> </tr>
 </tbody></table>

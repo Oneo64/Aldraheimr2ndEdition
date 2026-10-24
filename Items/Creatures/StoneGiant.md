@@ -1,7 +1,6 @@
-# Stone Giant
-
+# Stone giant
 <table><tbody>
-	<tr> <th colspan=2>Stone Giant</th> </tr>
+	<tr> <th colspan=2>Stone giant</th> </tr>
 	<tr> <td>Type</td> <td>Elemental</td> </tr>
 	<tr> <td>Native to</td> <td>Sotjörðr<br>The Mountains of Ranûdel</td> </tr>
 </tbody></table>

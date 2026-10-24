@@ -1,6 +1,6 @@
-# Great Leafbug
+# Great leafbug
 <table><tbody>
-	<tr> <th colspan=2>Great Leafbug</th> </tr>
+	<tr> <th colspan=2>Great leafbug</th> </tr>
 	<tr> <td>Type</td> <td>Beast</td> </tr>
 	<tr> <td>Native to</td> <td>Golden Forest<br>Centrumic Forests</td> </tr>
 </tbody></table>

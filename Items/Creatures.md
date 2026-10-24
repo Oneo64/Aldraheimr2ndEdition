@@ -12,33 +12,33 @@ An indexing file for creatures found in Aldraheimr.
 ### Northern regions
 ###### General
 - [Draugr](Creatures/Draugr.md)
-- [Elven Spirit](Creatures/ElvenSpirit.md)
-- [Northern Human](Creatures/NorthernHuman.md)
+- [Elven spirit](Creatures/ElvenSpirit.md)
+- [Northern human](Creatures/NorthernHuman.md)
 - [Redcap](Creatures/Redcap.md)
-- [Snow Elf](Creatures/SnowElf.md)
+- [Snow elf](Creatures/SnowElf.md)
 - [Troll](Creatures/Troll.md)
 - [Wolfion](Creatures/Wolfion.md)
 
 ###### Skóskaskjángi Island
-- [Frost Dragon](Creatures/FrostDragon.md)
-- [Ice Spirit](Creatures/IceSpirit.md)
+- [Frost dragon](Creatures/FrostDragon.md)
+- [Ice spirit](Creatures/IceSpirit.md)
 
 ###### Þeyrík Island
-- [Ice Spirit](Creatures/IceSpirit.md)
+- [Ice spirit](Creatures/IceSpirit.md)
 
 ### Central regions
 ###### General
-- [Central Human](Creatures/CentralHuman.md)
-- [Great Leafbug](Creatures/GreatLeafbug.md)
+- [Central human](Creatures/CentralHuman.md)
+- [Great leafbug](Creatures/GreatLeafbug.md)
 - [Krasue](Creatures/Krasue.md)
-- [Raven Mocker](Creatures/RavenMocker.md)
-- [Sea Wretch](Creatures/SeaWretch.md)
+- [Raven mocker](Creatures/RavenMocker.md)
+- [Sea wretch](Creatures/SeaWretch.md)
 - [Wolfion](Creatures/Wolfion.md)
 
 ###### The Mountains of Ranûdel
-- [Glimmering Moth](Creatures/GlimmeringMoth.md)
-- [Moon Elf](Creatures/MoonElf.md)
-- [Stone Giant](Creatures/StoneGiant.md)
+- [Glimmering moth](Creatures/GlimmeringMoth.md)
+- [Moon elf](Creatures/MoonElf.md)
+- [Stone giant](Creatures/StoneGiant.md)
 
 ### Southern regions
 ###### General
@@ -46,35 +46,35 @@ An indexing file for creatures found in Aldraheimr.
 - [Half-snake](Creatures/Halfsnake.md)
 - [Krasue](Creatures/Krasue.md)
 - [Manticore](Creatures/Manticore.md)
-- [Sea Wretch](Creatures/SeaWretch.md)
+- [Sea wretch](Creatures/SeaWretch.md)
 
 ###### The Taribian Desert
-- [Fire Dragon](Creatures/FireDragon.md)
-- [Fire Spirit](Creatures/FireSpirit.md)
-- [Southern Human](Creatures/SouthernHuman.md)
+- [Fire dragon](Creatures/FireDragon.md)
+- [Fire spirit](Creatures/FireSpirit.md)
+- [Southern human](Creatures/SouthernHuman.md)
 
 ###### Neshozia
 - [Crawler](Creatures/Crawler.md)
-- [Fire Dragon](Creatures/FireDragon.md)
+- [Fire dragon](Creatures/FireDragon.md)
 - [Orc](Creatures/Orc.md)
 
 ## Veldalfheimr
 - [Centaur](Creatures/Centaur.md)
 - [Dryad](Creatures/Dryad.md)
-- [Elven Spirit](Creatures/ElvenSpirit.md)
-- [Faerie Hare](Creatures/FaerieHare.md)
+- [Elven spirit](Creatures/ElvenSpirit.md)
+- [Faerie hare](Creatures/FaerieHare.md)
 - [Gvarth](Creatures/Gvarth.md)
 
 ## Sotjörðr
-- [Earth Giant](Creatures/EarthGiant.md)
-- [Stone Giant](Creatures/StoneGiant.md)
+- [Earth giant](Creatures/EarthGiant.md)
+- [Stone giant](Creatures/StoneGiant.md)
 
 ## Sorted by type
 ### Beast
 > Beasts are natural animals of the world.
 
-- [Glimmering Moth](Creatures/GlimmeringMoth.md)
-- [Great Leafbug](Creatures/GreatLeafbug.md)
+- [Glimmering moth](Creatures/GlimmeringMoth.md)
+- [Great leafbug](Creatures/GreatLeafbug.md)
 - [Manticore](Creatures/Manticore.md)
 
 ### Construct
@@ -93,22 +93,22 @@ An indexing file for creatures found in Aldraheimr.
 > Demons are irredeemable monsters. Their very nature is evil, wicked, and cruel, and nothing can change that. The only way to permanently stop them is to slay them.
 
 - [Daeva](Creatures/Daeva.md)
-- [Raven Mocker](Creatures/RavenMocker.md)
+- [Raven mocker](Creatures/RavenMocker.md)
 - [Wolfion](Creatures/Wolfion.md)
 
 ### Dragon
 > Dragons are rare, secluded beings who stay far away from civilisation. There are only 400 of them throughout the world. Unlike the typical image of four-legged dragons, they have only two legs and two arms, their arms merged with their wings like a wyvern.
 
-- [Fire Dragon](Creatures/FireDragon.md)
-- [Frost Dragon](Creatures/FrostDragon.md)
+- [Fire dragon](Creatures/FireDragon.md)
+- [Frost dragon](Creatures/FrostDragon.md)
 
 ### Elemental
 > Elementals are natural manifestations of the very heart of nature, forming in places where the weather is extreme or places that are surrounded by their type. (For example, stone giants may form on tall, jagged mountains.)
 
-- [Earth Giant](Creatures/EarthGiant.md)
-- [Fire Spirit](Creatures/FireSpirit.md)
-- [Ice Spirit](Creatures/IceSpirit.md)
-- [Stone Giant](Creatures/StoneGiant.md)
+- [Earth giant](Creatures/EarthGiant.md)
+- [Fire spirit](Creatures/FireSpirit.md)
+- [Ice spirit](Creatures/IceSpirit.md)
+- [Stone giant](Creatures/StoneGiant.md)
 
 ### Fey
 > Fey creatures are magical beings that are the most attuned to nature.
@@ -116,21 +116,21 @@ An indexing file for creatures found in Aldraheimr.
 - [Centaur](Creatures/Centaur.md)
 - [Crawler](Creatures/Crawler.md)
 - [Dryad](Creatures/Dryad.md)
-- [Elven Spirit](Creatures/ElvenSpirit.md)
-- [Faerie Hare](Creatures/FaerieHare.md)
+- [Elven spirit](Creatures/ElvenSpirit.md)
+- [Faerie hare](Creatures/FaerieHare.md)
 - [Redcap](Creatures/Redcap.md)
-- [Sea Wretch](Creatures/SeaWretch.md)
+- [Sea wretch](Creatures/SeaWretch.md)
 - [Troll](Creatures/Troll.md)
 
 ### Humanoid
 > Humanoids are living, social, and intelligent creatures with two arms and two legs.
 
-- [Central Human](Creatures/CentralHuman.md)
-- [Moon Elf](Creatures/MoonElf.md)
-- [Northern Human](Creatures/NorthernHuman.md)
+- [Central human](Creatures/CentralHuman.md)
+- [Moon elf](Creatures/MoonElf.md)
+- [Northern human](Creatures/NorthernHuman.md)
 - [Orc](Creatures/Orc.md)
-- [Snow Elf](Creatures/SnowElf.md)
-- [Southern Human](Creatures/SouthernHuman.md)
+- [Snow elf](Creatures/SnowElf.md)
+- [Southern human](Creatures/SouthernHuman.md)
 
 ### Revenant
 > Revenants are corpses or cursed beings whose body and soul remain bound to the mortal world by curses, improper burial, or overwhelming will.

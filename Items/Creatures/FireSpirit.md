@@ -1,6 +1,6 @@
-# Fire Spirit
+# Fire spirit
 <table><tbody>
-	<tr> <th colspan=2>Fire Spirit</th> </tr>
+	<tr> <th colspan=2>Fire spirit</th> </tr>
 	<tr> <td>Type</td> <td>Elemental</td> </tr>
 	<tr> <td>Native to</td> <td>Southern Myrkjörðr</td> </tr>
 </tbody></table>

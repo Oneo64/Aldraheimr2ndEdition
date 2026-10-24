@@ -1,4 +1,4 @@
-# Central Human
+# Central human
 Central humans live in the central region of Myrkjörðr and are the main population of Centruma. They are based on the Romans and the Byzantines.
 
 ## Typical appearance
