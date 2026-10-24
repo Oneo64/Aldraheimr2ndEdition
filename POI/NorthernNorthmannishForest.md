@@ -1,7 +1,7 @@
 # The Northern Northmannish Forest
 <table><tbody>
 	<tr> <th colspan=2>The Northern Northmannish Forest</th> </tr>
-	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/POI/References/NorthernNorthmannishForest.jpeg" alt="test" width="300"></th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/POI/References/NorthernNorthmannishForest.jpg" alt="test" width="300"></th> </tr>
 	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
 </tbody></table>
 
