@@ -1,6 +1,8 @@
 # The Mountains of Ranûdel
 <table><tbody>
 	<tr> <th colspan=2>The Mountains of Ranûdel</th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/POI/References/MountainsOfRanudel.jpg" alt="test" width="300"></th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/POI/References/ForestsOfRaudel (Deep).jpg" alt="test" width="300"></th> </tr>
 	<tr> <td>Region</td> <td>Eastern Myrkjörðr</td> </tr>
 	<tr> <td>Inhabitants</td> <td>Glimmering Moth<br>Krasue<br>Stone Giant</td> </tr>
 	<tr> <td>Plants</td> <td>Amethyst Gorbry<br>Black hellebore<br>Blue poppy<br>Ghost pipe<br>Lungwort</td> </tr>

@@ -1,6 +1,7 @@
 # The Heirfgrian Forest
 <table><tbody>
 	<tr> <th colspan=2>The Heirfgrian Forest</th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/POI/References/HeirfgrianForest.jpg" alt="test" width="300"></th> </tr>
 	<tr> <td>Region</td> <td>Heirfgria</td> </tr>
 </tbody></table>
 

@@ -1,6 +1,7 @@
 # The Golden Forests
 <table><tbody>
 	<tr> <th colspan=2>The Golden Forests</th> </tr>
+		<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/POI/References/GoldenForests.jpg" alt="test" width="300"></th> </tr>
 	<tr> <td>Region</td> <td>Western Myrkjörðr</td> </tr>
 </tbody></table>
 

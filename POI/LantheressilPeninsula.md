@@ -1,6 +1,7 @@
 # The Lantheressil Peninsula
 <table><tbody>
 	<tr> <th colspan=2>The Lantheressil Peninsula</th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/POI/References/LantheressilPeninsula.jpg" alt="test" width="300"></th> </tr>
 	<tr> <td>Region</td> <td>Northwest Myrkjörðr</td> </tr>
 </tbody></table>
 
