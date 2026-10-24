@@ -126,8 +126,8 @@ An indexing file for creatures found in Aldraheimr.
 > Humanoids are living, social, and intelligent creatures with two arms and two legs.
 
 - [Central Human](Creatures/CentralHuman.md)
-- [Northern Human](Creatures/NorthernHuman.md)
 - [Moon Elf](Creatures/MoonElf.md)
+- [Northern Human](Creatures/NorthernHuman.md)
 - [Orc](Creatures/Orc.md)
 - [Southern Human](Creatures/SouthernHuman.md)
 - [Snow Elf](Creatures/SnowElf.md)
