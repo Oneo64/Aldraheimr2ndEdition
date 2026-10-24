@@ -129,8 +129,8 @@ An indexing file for creatures found in Aldraheimr.
 - [Moon Elf](Creatures/MoonElf.md)
 - [Northern Human](Creatures/NorthernHuman.md)
 - [Orc](Creatures/Orc.md)
-- [Southern Human](Creatures/SouthernHuman.md)
 - [Snow Elf](Creatures/SnowElf.md)
+- [Southern Human](Creatures/SouthernHuman.md)
 
 ### Revenant
 > Revenants are corpses or cursed beings whose body and soul remain bound to the mortal world by curses, improper burial, or overwhelming will.
