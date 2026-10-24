@@ -5,4 +5,4 @@
 	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
 </tbody></table>
 
-Solshaef Forest is an ethereal snow-covered forest.
+Solshaef Forest is an ethereal snow-covered forest of firs and pines, laid on a landscape of rolling hills.
