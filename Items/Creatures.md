@@ -19,11 +19,11 @@ An indexing file for creatures found in Aldraheimr.
 - [Troll](Creatures/Troll.md)
 - [Wolfion](Creatures/Wolfion.md)
 
-###### Snæskjángi Island
+###### Snæskjangi Island
 - [Frost dragon](Creatures/FrostDragon.md)
 - [Ice spirit](Creatures/IceSpirit.md)
 
-###### Þeyrík Island
+###### The Þeyrík Islands
 - [Ice spirit](Creatures/IceSpirit.md)
 
 ### Central regions
