@@ -7,4 +7,4 @@
 The Nordic Mountain Range is a line of mountains located in northern Myrkjörðr.
 
 ## Locations
-- [Úlfsjáing](Ulfsvening.md)
+- [Úlfsjáing](Ulfsjaing.md)
