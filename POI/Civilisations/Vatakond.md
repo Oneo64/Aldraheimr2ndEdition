@@ -8,7 +8,7 @@
 	<tr> <td>Demonym</td> <td>Vatakondian</td> </tr>
 	<tr> <th colspan=2>Culture</th> </tr>
 	<tr> <td>Cultural region</td> <td>Fey</td> </tr>
-	<tr> <td>Main culture</td> <td>Centaur</td> </tr>
+	<tr> <td>Main culture</td> <td>Northern Centaur</td> </tr>
 	<tr> <td>Main religion</td> <td>Fey</td> </tr>
 	<tr> <td>Languages</td> <td>Sylvendric</td> </tr>
 	<tr> <td>Allies with</td> <td>Wulfscithia</td> </tr>

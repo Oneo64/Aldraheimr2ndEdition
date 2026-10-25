@@ -10,7 +10,7 @@
 	<tr> <td>Cultural region</td> <td>Northern</td> </tr>
 	<tr> <td>Main culture</td> <td>Northmannish</td> </tr>
 	<tr> <td>Religions</td> <td>Northern paganism</td> </tr>
-	<tr> <td>Languages</td> <td>Oddarish</td> </tr>
+	<tr> <td>Languages</td> <td>Northmannish</td> </tr>
 </tbody></table>
 
 The Kingdom of Þeyrík is a minor kingdom located on Þeyrík Island.
