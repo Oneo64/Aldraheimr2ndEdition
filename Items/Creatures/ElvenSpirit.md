@@ -9,7 +9,7 @@
 An elven spirit (Oddarish: *álfr*, Icelandic: *álfur*) is a mysterious fey creature that dwells in secluded areas, especially dense forests, glades, and caves.
 
 ## Description
-Elven spirits have two forms. The first form is formless. The second form, however, is an ethereally beautiful humanoid with bright skin, fair hair, and soft eyes, clad in flowing white dresses and a gentle glow.
+Elven spirits have two forms. The first is formless and incorporeal. The second is an ethereally beautiful humanoid with feminine features, long blonde hair, bright, pale skin, and soft eyes, clad in flowing white dresses and glowing gently.
 
 ## Abilities
 Elven spirits can control dreams, possess creatures, and exercise all druidic magic. They can enter objects, like a tree or boulder, and live inside them. Furthermore, they can willingly travel from Veldalfheimr to Myrkjörðr and vice versa.
