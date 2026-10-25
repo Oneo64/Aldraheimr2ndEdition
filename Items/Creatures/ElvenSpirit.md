@@ -6,7 +6,7 @@
 	<tr> <td>Based on</td> <td>Álfar & huldufólk (Norse mythology)</td> </tr>
 </tbody></table>
 
-An elven spirit (Oddarish: *álfr*, Icelandic: *álfur*) is a mysterious fey creature that dwells in secluded areas, especially dense forests, glades, and caves.
+An elven spirit (Northmannish: *alfr*) is a mysterious fey creature that dwells in secluded areas, especially dense forests, glades, and caves.
 
 ## Description
 Elven spirits have two forms. The first is formless and incorporeal. The second is an ethereally beautiful humanoid with feminine features, long blonde hair, bright, pale skin, and soft eyes, clad in flowing white dresses and glowing gently.
