@@ -53,11 +53,11 @@ Oddarish soldiers are required to bring their own weapons and armour. However, r
 
 ## Locations
 ### Villages
-- [Álahringr](../POI/Alahringr.md)
-- [Barastaðr](../POI/Barastadr.md)
+- [Álahringr](../Alahringr.md)
+- [Barastaðr](../Barastadr.md)
 - Elkvinr
-- [Fjørðvík](../POI/Fjordvik.md)
-- [Óssvík](../POI/Ossvik.md)
+- [Fjørðvík](../Fjordvik.md)
+- [Óssvík](../Ossvik.md)
 - Skjorknauz
 
 ### In Þuryngard Ring Fortress
