@@ -7,8 +7,8 @@
 	<tr> <td>Population</td> <td>~33,000 people</td> </tr>
 	<tr> <td>Demonym</td> <td>Ranûdan</td> </tr>
 	<tr> <th colspan=2>Culture</th> </tr>
-	<tr> <td>Cultural region</td> <td>Elvish</td> </tr>
-	<tr> <td>Main culture</td> <td>Elvish</td> </tr>
+	<tr> <td>Cultural region</td> <td>Central</td> </tr>
+	<tr> <td>Main culture</td> <td>Central elven</td> </tr>
 	<tr> <td>Religions</td> <td>Fey</td> </tr>
 	<tr> <td>Languages</td> <td>Ranûdan</td> </tr>
 </tbody></table>

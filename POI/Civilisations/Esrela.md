@@ -8,7 +8,7 @@
 	<tr> <td>Demonym</td> <td>Esrel</td> </tr>
 	<tr> <th colspan=2>Culture</th> </tr>
 	<tr> <td>Cultural region</td> <td>Northern</td> </tr>
-	<tr> <td>Main culture</td> <td>Northern Elvish</td> </tr>
+	<tr> <td>Main culture</td> <td>Northern Elven</td> </tr>
 	<tr> <td>Religions</td> <td>Northern paganism</td> </tr>
 	<tr> <td>Languages</td> <td>Esrel</td> </tr>
 	<tr> <th colspan=2>Relations</th> </tr>
