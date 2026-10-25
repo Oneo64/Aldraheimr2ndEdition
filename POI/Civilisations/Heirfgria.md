@@ -8,7 +8,7 @@
 	<tr> <td>Demonym</td> <td>Heirfgrian</td> </tr>
 	<tr> <th colspan=2>Culture</th> </tr>
 	<tr> <td>Cultural region</td> <td>Fey</td> </tr>
-	<tr> <td>Main culture</td> <td>Southern Centaur</td> </tr>
+	<tr> <td>Main culture</td> <td>Southern centaur</td> </tr>
 	<tr> <td>Religions</td> <td>Fey</td> </tr>
 	<tr> <td>Languages</td> <td>Sylvendric</td> </tr>
 </tbody></table>

@@ -2,13 +2,13 @@
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Esrela</th> </tr>
 	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
-	<tr> <td>Government</td> <td>Elected Noocracy</td> </tr>
+	<tr> <td>Government</td> <td>Elected noocracy</td> </tr>
 	<tr> <td>Ruler</td> <td>Queen Ildïre</td> </tr>
 	<tr> <td>Population</td> <td>~21,000 people</td> </tr>
 	<tr> <td>Demonym</td> <td>Esrel</td> </tr>
 	<tr> <th colspan=2>Culture</th> </tr>
 	<tr> <td>Cultural region</td> <td>Northern</td> </tr>
-	<tr> <td>Main culture</td> <td>Northern Elven</td> </tr>
+	<tr> <td>Main culture</td> <td>Northern elven</td> </tr>
 	<tr> <td>Religions</td> <td>Northern paganism</td> </tr>
 	<tr> <td>Languages</td> <td>Esrel</td> </tr>
 	<tr> <th colspan=2>Relations</th> </tr>

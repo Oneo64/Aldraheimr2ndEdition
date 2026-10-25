@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Heorthland</th> </tr>
 	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
-	<tr> <td>Government</td> <td>Feudal Absolute Monarchy</td> </tr>
+	<tr> <td>Government</td> <td>Feudal absolute monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Ealdræd</td> </tr>
 	<tr> <td>Population</td> <td>~2,000 people</td> </tr>
 	<tr> <th colspan=2>Culture</th> </tr>

@@ -1,11 +1,11 @@
 # The Kingdom of Þeyrík
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Þeyrík</th> </tr>
-	<tr> <td>Region</td> <td>Þeyrík Island</td> </tr>
-	<tr> <td>Government</td> <td>Feudal Absolute Monarchy</td> </tr>
+	<tr> <td>Region</td> <td>Þeyrík Islands</td> </tr>
+	<tr> <td>Government</td> <td>Feudal absolute monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>Queen Rán</td> </tr>
 	<tr> <td>Population</td> <td>~2,000 people</td> </tr>
-	<tr> <td>Demonym</td> <td>Þeyring<br>Theyring</td> </tr>
+	<tr> <td>Demonym</td> <td>Þeyringr<br>Theyring</td> </tr>
 	<tr> <th colspan=2>Culture</th> </tr>
 	<tr> <td>Cultural region</td> <td>Northern</td> </tr>
 	<tr> <td>Main culture</td> <td>Northmannish</td> </tr>
