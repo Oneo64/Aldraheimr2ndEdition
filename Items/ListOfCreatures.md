@@ -1,4 +1,4 @@
-# Creatures
+# List of Creatures
 An indexing file for creatures found in Aldraheimr.
 
 ## Myrkjörðr
