@@ -27,7 +27,6 @@ The Centrumian army has about 2500 men, 1200 in Lantum and 700 in Vero. Soldiers
 
 ## Locations
 ### Towns
-- Bantusaem
 - Forta
 - Ganavum
 - Saequor
