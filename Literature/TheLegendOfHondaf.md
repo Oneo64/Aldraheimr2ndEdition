@@ -1,5 +1,4 @@
 # The Legend of Hondaf
-
 The Legend of Hondaf is a short story written in Rotherlandic about a warrior who defended his town from an invading force of earth elementals. Its possible that the legend takes place before the events of the Krikihbolg Tale.
 
 ## Story

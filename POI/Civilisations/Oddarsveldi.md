@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Oddarsveldi</th> </tr>
 	<tr> <td>Region</td> <td>Northern Myrkjørð</td> </tr>
-	<tr> <td>Founding date</td> <td>AD 740</td> </tr>
+	<tr> <td>Founding date</td> <td>NCE 60</td> </tr>
 	<tr> <td>Government</td> <td>Feudal absolute monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Alfþórr II</td> </tr>
 	<tr> <td>Population</td> <td>~51,700 people</td> </tr>

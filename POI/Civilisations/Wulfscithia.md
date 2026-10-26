@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Wulfscithia</th> </tr>
 	<tr> <td>Region</td> <td>Northern Myrkjørð</td> </tr>
-	<tr> <td>Founding date</td> <td>AD 790</td> </tr>
+	<tr> <td>Founding date</td> <td>NCE 90</td> </tr>
 	<tr> <td>Government</td> <td>Constitutional monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Wærmund</td> </tr>
 	<tr> <td>Population</td> <td>~30,000 people</td> </tr>
@@ -17,8 +17,8 @@
 	<tr> <td>Wars with</td> <td>Esrela<br>Heorthland<br>Oddarsveldi</td> </tr>
 </tbody></table>
 
-The Kingdom of Wulfscithia was established as a small kingdom in AD 790 by King Wulfblædd, who was in a group of Rotherlandic explorers.
+The Kingdom of Wulfscithia was established as a small kingdom in NCE 90 by King Wulfblædd, who was in a group of Rotherlandic explorers.
 
-In AD 870, King Wilfriþe passed away. His son inherited the throne from him. But over the next few years, evil fey corrupted the new king and manipulated him, using him as leverage for their crusade against men. Using him, he spread propaganda throughout the kingdom to make his people believe demons possessed other foreigners.
+In AD 130, King Wilfriþe passed away. His son inherited the throne from him. But over the next few years, evil fey corrupted the new king and manipulated him, using him as leverage for their crusade against men. Using him, he spread propaganda throughout the kingdom to make his people believe demons possessed other foreigners.
 
 Many, many years later, King Wærmund has taken the throne. Out of nowhere, Oddarsveldi attacked Wulfscithia. Thus, the Campaign of Wulfscithia had begun.

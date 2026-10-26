@@ -2,7 +2,6 @@
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Rotherland</th> </tr>
 	<tr> <td>Region</td> <td>Northern Myrkjørð</td> </tr>
-	<tr> <td>Founding date</td> <td>AD 810</td> </tr>
 	<tr> <td>Government</td> <td>Constitutional monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Bældhelm</td> </tr>
 	<tr> <td>Population</td> <td>~28,000 people</td> </tr>

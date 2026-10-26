@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>The Centrumian Realm</th> </tr>
 	<tr> <td>Region</td> <td>Central Myrkjørð</td> </tr>
-	<tr> <td>Founding date</td> <td>AD 1</td> </tr>
+	<tr> <td>Founding date</td> <td>NCE 1</td> </tr>
 	<tr> <td>Government</td> <td>Elected autocracy</td> </tr>
 	<tr> <td>Ruler</td> <td>Princeps Taevus</td> </tr>
 	<tr> <td>Population</td> <td>~55,000 people</td> </tr>
