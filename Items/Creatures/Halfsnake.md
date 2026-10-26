@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Half-snake</th> </tr>
 	<tr> <td>Type</td> <td>Demi-human</td> </tr>
-	<tr> <td>Native to</td> <td>Southern Myrkjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Southern Myrkjørð</td> </tr>
 	<tr> <td>Based on</td> <td>Yaun-ti (D&D)<br>Yaoguai (Journey to the West)</td> </tr>
 </tbody></table>
 

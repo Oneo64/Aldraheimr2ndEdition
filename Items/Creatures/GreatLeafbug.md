@@ -5,7 +5,7 @@
 	<tr> <td>Native to</td> <td>Golden Forest<br>Centrumic Forests</td> </tr>
 </tbody></table>
 
-A great leafbug is a large insectoid creature that dwells in central Myrkjörðr. They feed on ekraldys toadstools.
+A great leafbug is a large insectoid creature that dwells in central Myrkjørð. They feed on ekraldys toadstools.
 
 ## Description
 Great leafbugs are enormous, green stickbugs with 12 legs. They are about a meter and a half long.

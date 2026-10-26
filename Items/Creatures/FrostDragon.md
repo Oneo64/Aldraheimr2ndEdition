@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Frost dragon</th> </tr>
 	<tr> <td>Type</td> <td>Dragon</td> </tr>
-	<tr> <td>Native to</td> <td>Northern Myrkjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Northern Myrkjørð</td> </tr>
 	<tr> <td>Based on</td> <td>Dragon (The Elder Scrolls V: Skyrim)</td> </tr>
 </tbody></table>
 

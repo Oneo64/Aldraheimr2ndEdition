@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Raven mocker</th> </tr>
 	<tr> <td>Type</td> <td>Demon</td> </tr>
-	<tr> <td>Native to</td> <td>Central and southern Myrkjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Central and southern Myrkjørð</td> </tr>
 	<tr> <td>Based on</td> <td>Raven mockers (Cherokee mythology)</td> </tr>
 </tbody></table>
 

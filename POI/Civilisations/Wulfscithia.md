@@ -1,7 +1,7 @@
 # The Kingdom of Wulfscithia
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Wulfscithia</th> </tr>
-	<tr> <td>Region</td> <td>Central-Northern Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Northern Myrkjørð</td> </tr>
 	<tr> <td>Founding date</td> <td>AD 790</td> </tr>
 	<tr> <td>Government</td> <td>Constitutional monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Wærmund</td> </tr>

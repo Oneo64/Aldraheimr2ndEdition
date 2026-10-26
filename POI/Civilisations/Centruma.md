@@ -1,7 +1,7 @@
 # The Centrumian Realm (Centruma)
 <table><tbody>
 	<tr> <th colspan=2>The Centrumian Realm</th> </tr>
-	<tr> <td>Region</td> <td>Central Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Central Myrkjørð</td> </tr>
 	<tr> <td>Founding date</td> <td>AD 1</td> </tr>
 	<tr> <td>Government</td> <td>Elected autocracy</td> </tr>
 	<tr> <td>Ruler</td> <td>Princeps Taevus</td> </tr>
@@ -14,7 +14,7 @@
 	<tr> <td>Languages</td> <td>Centrumic</td> </tr>
 </tbody></table>
 
-Centruma is a major kingdom located in central Myrkjörðr. The capital city is Lantum.
+Centruma is a major kingdom located in central Myrkjørð. The capital city is Lantum.
 
 ## Miltiary
 The Centrumian army has about 2500 men, 1200 in Lantum and 700 in Vero. Soldiers live in garrisons.

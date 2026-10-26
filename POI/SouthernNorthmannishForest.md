@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>The Southern Northmannish Forest</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/POI/References/SouthernNorthmannishForest.jpg" alt="test" width="300"></th> </tr>
-	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Northern Myrkjørð</td> </tr>
 </tbody></table>
 
 The Southern Northmannish Forest is a bright coniferous forest where firs and spruces thrive together. The forest has a mix of sparse and heavy undergrowth regions, with sparse being the more common.

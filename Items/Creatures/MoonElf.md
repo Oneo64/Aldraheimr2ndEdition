@@ -1,5 +1,5 @@
 # Moon elf
-Moon elves are a variant of elves that originate from the central Myrkjörðr, especially from the Mountains of Ranûdel.
+Moon elves are a variant of elves that originate from the central region of Myrkjørð, especially from the Mountains of Ranûdel.
 
 Defining features of a moon elf are long sharp ears, pupilless eyes, and a softer or rounder facial structure. They commonly have ethereal and flowing features, such as straight dark purple hair, blue or grey eyes, and pale blue skin. Some elves, especially those who live in the valleys, have a darker complexion with black hair and dark blue skin. Their voices are usually softer and deeper, giving them a velvety and soothing sound.
 

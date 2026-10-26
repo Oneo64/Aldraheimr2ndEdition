@@ -1,7 +1,7 @@
 # Oddarsveldi
 <table><tbody>
 	<tr> <th colspan=2>Oddarsveldi</th> </tr>
-	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Northern Myrkjørð</td> </tr>
 	<tr> <td>Founding date</td> <td>AD 740</td> </tr>
 	<tr> <td>Government</td> <td>Feudal absolute monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Alfþórr II</td> </tr>
@@ -17,7 +17,7 @@
 	<tr> <td>Wars with</td> <td>Wulfscithia<br>Vatakond</td> </tr>
 </tbody></table>
 
-Oddarsveldi is a major kingdom located in the northern region of Myrkjörðr.
+Oddarsveldi is a major kingdom located in the northern region of Myrkjørð.
 
 ## History
 Oddarsveldi rose to power from a small village named Hrattvekr. After Oddr the First led a defensive force, defeating an army of invading trolls, he was made king.

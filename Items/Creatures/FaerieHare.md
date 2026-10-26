@@ -14,4 +14,4 @@ Faerie hares are hares that have brown and tan fur and green eyes that glow in t
 Faerie hares are active at night and can only be seen by other fey. When a faerie hare runs over someone's farmland, they can see the hare in their dream.
 
 ## Behaviour
-Fey activity in Myrkjörðr attracts faerie hares, intriguing them to go and have a look.
+Fey activity in Myrkjørð attracts faerie hares, intriguing them to go and have a look.

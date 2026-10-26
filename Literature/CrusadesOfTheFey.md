@@ -1,9 +1,9 @@
 # The Crusades of the Fey
-The Crusades of the Fey is a holy crusade run by the Kingdom of Caldassil to destroy all civilisation on Myrkjörðr and restore nature.
+The Crusades of the Fey is a holy crusade run by the Kingdom of Caldassil to destroy all civilisation on Myrkjørð and restore nature.
 
-Two hundred years ago, an ideology of retribution sprouted in the Kingdom of Caldassil and quickly took over. Half the population believed that humans, dwarves, and elves in Myrkjörðr were destroying nature and Talmundúr by shaping/burning wood and killing animals.
+Two hundred years ago, an ideology of retribution sprouted in the Kingdom of Caldassil and quickly took over. Half the population believed that humans, dwarves, and elves in Myrkjørð were destroying nature and Talmundúr by shaping/burning wood and killing animals.
 
-A civil war broke out in Caldassil, leading to the victory of the crusaders. The Fey King was beheaded, and the good ones who were still alive fled from the kingdom, ending up in random places of the faeric forest and Myrkjörðr.
+A civil war broke out in Caldassil, leading to the victory of the crusaders. The Fey King was beheaded, and the good ones who were still alive fled from the kingdom, ending up in random places of the faeric forest and Myrkjørð.
 
 In AD 870, Caldassil's council decided to target a kingdom called Wulfscithia. Since the king of Wulfscithia at that time was young and inexperienced, combined with the fey's magic, he was manipulated easily. Now that Caldassil had control over Wulfscithia, they used the kingdom as a tool to start their crusade.
 

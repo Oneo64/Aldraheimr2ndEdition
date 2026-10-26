@@ -14,6 +14,6 @@ Dryads have the appearance of ethereally beautiful women who have shining skin, 
 Dryads mature by 20 and live up to 300 years old.
 
 ## Abilities
-Dryads can carve all types of magical staves (without limits) and perform all druidry. She can also control dreams, possess creatures, and willingly travel from Veldalfheimr to Myrkjörðr and vice versa. She always knows the location of her tree, unless it is destroyed.
+Dryads can carve all types of magical staves (without limits) and perform all druidry. She can also control dreams, possess creatures, and willingly travel from Veldalfheimr to Myrkjørð and vice versa. She always knows the location of her tree, unless it is destroyed.
 
 Dryads can speak both Druidic and Sylvan.

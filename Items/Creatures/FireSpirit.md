@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Fire spirit</th> </tr>
 	<tr> <td>Type</td> <td>Elemental</td> </tr>
-	<tr> <td>Native to</td> <td>Southern Myrkjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Southern Myrkjørð</td> </tr>
 </tbody></table>
 
 A fire spirit is a natural manifestation of Talmundur originating in southern regions. They are emotionless and cold. They try to avoid forests, jungles, and other wooded areas, residing in drier places like deserts and rocky mountains.

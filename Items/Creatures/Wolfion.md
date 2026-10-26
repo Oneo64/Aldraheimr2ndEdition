@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Wolfion</th> </tr>
 	<tr> <td>Type</td> <td>Demon</td> </tr>
-	<tr> <td>Native to</td> <td>Northern and central Myrkjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Northern and central Myrkjørð</td> </tr>
 	<tr> <td>Based on</td> <td>Fenring (Valheim)</td> </tr>
 </tbody></table>
 

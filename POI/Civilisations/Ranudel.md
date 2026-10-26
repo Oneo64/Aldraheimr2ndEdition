@@ -1,7 +1,7 @@
 # The Kingdom of Ranûdel
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Ranûdel</th> </tr>
-	<tr> <td>Region</td> <td>Central Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Central Myrkjørð</td> </tr>
 	<tr> <td>Government</td> <td>Geniocractic monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Vasôlas</td> </tr>
 	<tr> <td>Population</td> <td>~33,000 people</td> </tr>
@@ -13,7 +13,7 @@
 	<tr> <td>Languages</td> <td>Ranûdan</td> </tr>
 </tbody></table>
 
-The Kingdom of Ranûdel is a major kingdom located in the central region of Myrkjörðr, in the Mountains of Ranûdel.
+The Kingdom of Ranûdel is a major kingdom located in the central region of Myrkjørð, in the Mountains of Ranûdel.
 
 ## Military
 The Ranûdan army has around 200 warriors in Endarassil. This doesn't count the local militia of other villages.

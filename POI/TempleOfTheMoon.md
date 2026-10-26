@@ -1,7 +1,7 @@
 # The Temple of the Moon
 <table><tbody>
 	<tr> <th colspan=2>The Temple of the Moon</th> </tr>
-	<tr> <td>Region</td> <td>Northwest Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Northwest Myrkjørð</td> </tr>
 </tbody></table>
 
 The Temple of the Moon is an ancient structure dedicated to the moon, built on a small hill. It is located on a plateau on the northwest coast. From the bottom, gravel paths lead up to the top of the hill, where a lonely limestone bell tower sits.

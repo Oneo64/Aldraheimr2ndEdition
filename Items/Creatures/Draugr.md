@@ -2,11 +2,11 @@
 <table><tbody>
 	<tr> <th colspan=2>Draugr</th> </tr>
 	<tr> <td>Type</td> <td>Revenant</td> </tr>
-	<tr> <td>Native to</td> <td>All over the world</td> </tr>
+	<tr> <td>Native to</td> <td>Northern Myrkjørð</td> </tr>
 	<tr> <td>Based on</td> <td>Draugr (Norse mythology)</td> </tr>
 </tbody></table>
 
-A draugr (Northmannish: *draugr*, Heorthlandic: *drog*) is a revenant who rises from the dead because they were cursed to keep living, weren't buried properly, or suffered humiliation so great that their stubborn spirit starts to seek revenge. Even though they can be found all over the world, most draugr are made in the northern region of Myrkjörðr.
+A draugr (Northmannish: *draugr*, Heorthlandic: *drog*) is a revenant who rises from the dead because they were cursed to keep living, weren't buried properly, or suffered humiliation so great that their stubborn spirit starts to seek revenge.
 
 One way to prevent their rise is to ensure they lie down and have their hands and feet bound together.
 

@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Redcap</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
-	<tr> <td>Native to</td> <td>Northern Myrkjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Northern Myrkjørð</td> </tr>
 	<tr> <td>Based on</td> <td>Redcap (Anglo-Scottish mythology)</td> </tr>
 </tbody></table>
 

@@ -1,7 +1,7 @@
 # The Kingdom of Esrela
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Esrela</th> </tr>
-	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Northern Myrkjørð</td> </tr>
 	<tr> <td>Government</td> <td>Elected noocracy</td> </tr>
 	<tr> <td>Ruler</td> <td>Queen Ildïre</td> </tr>
 	<tr> <td>Population</td> <td>~21,000 people</td> </tr>
@@ -16,7 +16,7 @@
 	<tr> <td>Wars with</td> <td>Wulfscithia<br>Vatakond</td> </tr>
 </tbody></table>
 
-The Kingdom of Esrela is a major kingdom located in the northern region of Myrkjörðr. Hathossalïe is the main palace of the kingdom.
+The Kingdom of Esrela is a major kingdom located in the northern region of Myrkjørð. Hathossalïe is the main palace of the kingdom.
 
 ## Military
 The Esrel army has around 700 warriors, but most of them live in their homes.

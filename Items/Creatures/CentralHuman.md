@@ -1,5 +1,5 @@
 # Central human
-Central humans live in the central region of Myrkjörðr and are the main population of Centruma. They are based on the Romans and the Byzantines.
+Central humans live in the central region of Myrkjørð and are the main population of Centruma. They are based on the Romans and the Byzantines.
 
 ## Typical appearance
 Central humans have warm features. Men usually wear short tunics, while women usually wear longer, flowing dresses. They usually wear linen or cotton garments, while wealthier people usually wear silk.

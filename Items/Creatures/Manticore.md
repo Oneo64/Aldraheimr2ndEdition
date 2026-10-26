@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Manticore</th> </tr>
 	<tr> <td>Type</td> <td>Beast</td> </tr>
-	<tr> <td>Native to</td> <td>Southern Myrkjörðr, especially Taribian and Neshozian regions</td> </tr>
+	<tr> <td>Native to</td> <td>Southern Myrkjørð, especially Taribian and Neshozian regions</td> </tr>
 	<tr> <td>Based on</td> <td>Manticore (Persian mythology)</td> </tr>
 </tbody></table>
 

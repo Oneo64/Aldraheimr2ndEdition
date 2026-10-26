@@ -1,7 +1,7 @@
 # List of Creatures
 An indexing file for creatures found in Aldraheimr.
 
-## Myrkjörðr
+## Myrkjørð
 ### Everywhere
 - [Boneman](Creatures/Boneman.md)
 - [Centaur](Creatures/Centaur.md)
@@ -65,7 +65,7 @@ An indexing file for creatures found in Aldraheimr.
 - [Faerie hare](Creatures/FaerieHare.md)
 - [Gvarth](Creatures/Gvarth.md)
 
-## Sotjörðr
+## Sotjørð
 - [Earth giant](Creatures/EarthGiant.md)
 - [Stone giant](Creatures/StoneGiant.md)
 

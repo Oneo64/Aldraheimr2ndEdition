@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Sea Wretch</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
-	<tr> <td>Native to</td> <td>Central and southern Myrkjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Central and southern Myrkjørð</td> </tr>
 	<tr> <td>Based on</td> <td>Ponaturi (Maori mythology)</td> </tr>
 </tbody></table>
 

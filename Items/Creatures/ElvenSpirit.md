@@ -2,7 +2,7 @@
 <table><tbody>
 	<tr> <th colspan=2>Elven spirit</th> </tr>
 	<tr> <td>Type</td> <td>Fey</td> </tr>
-	<tr> <td>Native to</td> <td>Veldalfheimr<br>Northern Myrkjörðr</td> </tr>
+	<tr> <td>Native to</td> <td>Veldalfheimr<br>Northern Myrkjørð</td> </tr>
 	<tr> <td>Based on</td> <td>Álfar & huldufólk (Norse mythology)</td> </tr>
 </tbody></table>
 
@@ -12,6 +12,6 @@ An elven spirit (Northmannish: *alfr*) is a mysterious fey creature that dwells 
 Elven spirits have two forms. The first is formless and incorporeal. The second is an ethereally beautiful humanoid with feminine features, long blonde hair, bright, pale skin, and soft eyes, clad in flowing white dresses and glowing gently.
 
 ## Abilities
-Elven spirits can control dreams, possess creatures, and exercise all druidic magic. They can enter objects, like a tree or boulder, and live inside them. Furthermore, they can willingly travel from Veldalfheimr to Myrkjörðr and vice versa.
+Elven spirits can control dreams, possess creatures, and exercise all druidic magic. They can enter objects, like a tree or boulder, and live inside them. Furthermore, they can willingly travel from Veldalfheimr to Myrkjørð and vice versa.
 
 When elven spirits dance, they can choose to evoke a special power to cause anyone who lays their eyes upon them to fall into a trance, where for the victim, days feel like seconds.

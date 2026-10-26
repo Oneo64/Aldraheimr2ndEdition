@@ -1,7 +1,7 @@
 # The Kingdom of Heorthland
 <table><tbody>
 	<tr> <th colspan=2>The Kingdom of Heorthland</th> </tr>
-	<tr> <td>Region</td> <td>Northern Myrkjörðr</td> </tr>
+	<tr> <td>Region</td> <td>Northern Myrkjørð</td> </tr>
 	<tr> <td>Government</td> <td>Feudal absolute monarchy</td> </tr>
 	<tr> <td>Ruler</td> <td>King Ealdræd</td> </tr>
 	<tr> <td>Population</td> <td>~2,000 people</td> </tr>
@@ -15,7 +15,7 @@
 	<tr> <td>Wars with</td> <td>Wulfscithia<br>Vatakond</td> </tr>
 </tbody></table>
 
-The Kingdom of Heorthland is a minor kingdom located in the northern region of Myrkjörðr.
+The Kingdom of Heorthland is a minor kingdom located in the northern region of Myrkjørð.
 
 ## Military
 Heorthland has a small army of a hundred warriors.
