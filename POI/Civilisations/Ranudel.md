@@ -24,10 +24,5 @@ The Ranûdan army has around 200 warriors in Endarassil. This doesn't count the 
 - **Palace guard:** Palace guards' uniforms consist of a green quilted gambeson, blue surcoat, brown tunic, brown pants, and shoes. Their main loadout is a glaive, a longbow, and a quiver of obsidianhead arrows.
 
 ## Locations
-### Villages
-- Qwalu Dasin
-- Pûsa Dasin
-- Talithtom
-
 ### Cities
 - [Endarassil](../POI/Endarassil.md)

@@ -13,3 +13,10 @@
 </tbody></table>
 
 The Kingdom of Audeveaux is a minor kingdom located in central Myrkjørð.
+
+## Locations
+### Villages
+- [Pendlaise](../POI/Pendlaise.md)
+
+### Cities
+- Ganduille
