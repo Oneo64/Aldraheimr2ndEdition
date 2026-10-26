@@ -6,4 +6,4 @@
 	<tr> <td>Ruler</td> <td>King Alfþórr II</td> </tr>
 </tbody></table>
 
-Þuryngarðr is the capital of Oddarsveldi. The fortress has the typical appearance of a Viking ring fortress, except for its stone walls and towers. The king and his family live on a hill in the center, which has several elaborate longhouses surrounded by another circular curtain wall. Between the inner and the outer curtain wall, there are three towns: Þølhringr, Kjándallr, and Vilsnagr.
+Þuryngarðr is the capital of Oddarsveldi, built inside the Northern Northmannish Forest. The fortress has the typical appearance of a Viking ring fortress, except that it is much larger and has stone walls, towers, and an inner wall. The king and his family live on a hill in the center, which has several elaborate longhouses surrounded by another circular curtain wall. Between the inner and the outer curtain wall, there are three towns: Þølhringr, Kjándallr, and Vilsnagr.
