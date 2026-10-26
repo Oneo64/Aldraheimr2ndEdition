@@ -60,12 +60,8 @@ Oddarish soldiers are required to bring their own weapons and armour. However, r
 - [Óssvík](../Ossvik.md)
 - Skjorknauz
 
-### In Þuryngard Ring Fortress
-- Þølhringr
-- Kjándallr
-- Vilsnagr
-
 ### Fortresses
+- [Þuryngarðr](../Thuryngardr.md)
 - Dreiksvirki
 - Hersgjøf
 - Ynguningr
