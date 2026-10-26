@@ -1,2 +1,4 @@
 # The Grutorian Poem
-A priceless, but recently made artifact, a stone tablet containing a poem in Ancient Grutorian, was made by a scribe of yore. This scribe lived in a forgotten Galabric settlement. But tragedy struck when it was attacked as a result of a civil war, and was utterly abandoned. It was only several years after that unfortunate event that they remembered this tablet. But when an adventurous group decided to search the ruins of this settlement, they found nothing. A group of fey, one dryad and several centaurs, had already taken the tablet. And that dryad was Lanassil.
+The Grutorian Poem commonly refers to a priceless artifact, a stone tablet containing a poem in Ancient Grutorian. It was made by a scribe who possessed both the art of tongue and stone.
+
+The tablet originated from a forgotten Galabric settlement. After a civil war broke out, the tablet was utterly abandoned and left in the ruins to gather dust. After several hundred years, a group of fey led by Lanassil, a dryad, found the artifact and took it to Veldalfheimr.
