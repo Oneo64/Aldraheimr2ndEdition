@@ -2,10 +2,10 @@
 <table><tbody>
 	<tr> <th colspan=2>Earth giant</th> </tr>
 	<tr> <td>Type</td> <td>Elemental</td> </tr>
-	<tr> <td>Native to</td> <td>Sotjørð</td> </tr>
+	<tr> <td>Native to</td> <td>Jarðveldi</td> </tr>
 </tbody></table>
 
-An earth giant is a natural manifestation inside Sotjørð. They have week-long hibernation periods where they curl up into an indistinguishable boulder and become a normal-looking lump of rock, which they enter after being awakened for a few days.
+An earth giant is a natural manifestation inside Jarðveldi. They have week-long hibernation periods where they curl up into an indistinguishable boulder and become a normal-looking lump of rock, which they enter after being awakened for a few days.
 
 ## Description
 Earth giants are tall, bulky, and hulking humanoids composed of dirt and soil chunks, standing 4 meters tall. Despite their name, they are only the size of a human. They can see normally even though they don't have facial features.

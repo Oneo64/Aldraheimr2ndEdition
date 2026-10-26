@@ -2,10 +2,10 @@
 <table><tbody>
 	<tr> <th colspan=2>Stone giant</th> </tr>
 	<tr> <td>Type</td> <td>Elemental</td> </tr>
-	<tr> <td>Native to</td> <td>Sotjørð<br>The Mountains of Ranûdel</td> </tr>
+	<tr> <td>Native to</td> <td>Jarðveldi<br>The Mountains of Ranûdel</td> </tr>
 </tbody></table>
 
-A stone giant is a natural manifestation that forms inside Sotjørð and on the Mountains of Ranûdel. They have week-long hibernation periods where they curl up into an indistinguishable boulder and become a normal-looking lump of rock, which they enter after being awakened for a few days.
+A stone giant is a natural manifestation that forms inside Jarðveldi and on the Mountains of Ranûdel. They have week-long hibernation periods where they curl up into an indistinguishable boulder and become a normal-looking lump of rock, which they enter after being awakened for a few days.
 
 ## Description
 Stone giants are tall, bulky, and hulking humanoids completely made of chunks of rock, standing at a height of 4 meters. They can see normally even though they don't have facial features, but they are colourblind.

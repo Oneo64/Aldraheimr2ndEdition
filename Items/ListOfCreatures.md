@@ -58,16 +58,16 @@ An indexing file for creatures found in Aldraheimr.
 - [Fire dragon](Creatures/FireDragon.md)
 - [Orc](Creatures/Orc.md)
 
+## Jarðveldi
+- [Earth giant](Creatures/EarthGiant.md)
+- [Stone giant](Creatures/StoneGiant.md)
+
 ## Veldalfheimr
 - [Centaur](Creatures/Centaur.md)
 - [Dryad](Creatures/Dryad.md)
 - [Elven spirit](Creatures/ElvenSpirit.md)
 - [Faerie hare](Creatures/FaerieHare.md)
 - [Gvarth](Creatures/Gvarth.md)
-
-## Sotjørð
-- [Earth giant](Creatures/EarthGiant.md)
-- [Stone giant](Creatures/StoneGiant.md)
 
 ## Sorted by type
 ### Beast
