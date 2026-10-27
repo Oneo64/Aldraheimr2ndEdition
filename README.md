@@ -1,7 +1,7 @@
 # Aldraheimr (2nd Edition)
 Because the files for the original world were messy and inconsistent, I present to you: **Aldraheimr (2nd Edition)!**
 
-<img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/WorldMap/WorldMapSmall.png" alt="test" width="450">
+<img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/WorldMap/WorldMapSmall.png" alt="test" width="100%">
 
 Aldraheimr is a mythic historical fantasy based on the 9th and 10th centuries. In this edition, I will try a more narrative strategy in describing things, which should make things easier and more dynamic.
 
