@@ -1,6 +1,8 @@
 # Aldraheimr (2nd Edition)
 Because the files for the original world were messy and inconsistent, I present to you: **Aldraheimr (2nd Edition)!**
 
+<img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/WorldMap/WorldMapSmall.png" alt="test" width="450">
+
 Aldraheimr is a mythic historical fantasy based on the 9th and 10th centuries. In this edition, I will try a more narrative strategy in describing things, which should make things easier and more dynamic.
 
 Everything in this world is either based on folklore, mythology, medieval texts, or my own imagination, and goes for that specific aesthetic that is mysterious and terrifying without grandeur. Although magic is rare and just strong enough to rival warriors without overpowering them, many still view magic as something that should be respected, feared, or hated.
