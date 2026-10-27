@@ -1,8 +1,6 @@
 # Aldraheimr (2nd Edition)
 Because the files for the original world were messy and inconsistent, I present to you: **Aldraheimr (2nd Edition)!**
 
-<img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/WorldMap/WorldMapSmall.png" alt="test" width="100%">
-
 Aldraheimr is a mythic historical fantasy based on the 9th and 10th centuries. In this edition, I will try a more narrative strategy in describing things, which should make things easier and more dynamic.
 
 Everything in this world is either based on folklore, mythology, medieval texts, or my own imagination, and goes for that specific aesthetic that is mysterious and terrifying without grandeur. Although magic is rare and just strong enough to rival warriors without overpowering them, many still view magic as something that should be respected, feared, or hated.
@@ -21,3 +19,6 @@ Taverns and inns are not commonplace anywhere in the world. You will probably fi
 Magic can be scary because it's something you can't really understand, even if you were a Taribian sorcerer. Most practitioners of magic aren't any more effective in combat than warriors. However, nature's magic is still more powerful and weird than anything you could wield.
 
 Monsters are eerie, unnerving, frightening, and unpredictable. Even if you practise magic or have armour, you won't be having an easy time if you encounter something hostile in the wilderness.
+
+## Map
+<img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/WorldMap/WorldMapSmall.png" alt="test" width="100%">
