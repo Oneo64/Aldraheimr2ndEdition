@@ -26,6 +26,9 @@ The Ranûdan army has around 200 warriors in Endarassil. This doesn't count the 
 ## Locations
 ### Villages
 - [Damûrlûind](../POI/Damurluind.md)
+- Naitineŋ
+- Qwendora
+- Talintôme
 
 ### Cities
 - [Endarassil](../POI/Endarassil.md)
