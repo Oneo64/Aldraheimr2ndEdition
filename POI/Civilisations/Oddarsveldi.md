@@ -53,7 +53,7 @@ Oddarish soldiers are required to bring their own weapons and armour. However, r
 
 ## Locations
 ### Villages
-- [Álahringr](../Alahringr.md)
+- [Álhringr](../alhringr.md)
 - [Bleikstaðr](../Bleikstaðr.md)
 - Elgvinr
 - [Fjørðvík](../Fjordvik.md)

@@ -12,4 +12,4 @@
 The river mouth is shallow, yet still dangerous to cross. It's better to go over the bridge.
 
 ## Trading
-Travelling merchants who live here typically have a small karve, taking it up the Álahringr-Óssvík route to trade fish for wood. Some take the route south to Saequor (Kingdom of Centruma) to trade iron, fish, wool, and other exports.
+Travelling merchants who live here typically have a small karve, taking it up the Álhringr-Óssvík route to trade fish for wood. Some take the route south to Saequor (Centrumian Realm) to trade iron, fish, wool, and other exports.
