@@ -21,4 +21,4 @@ Magic can be scary because it's something you can't really understand, even if y
 Monsters are eerie, unnerving, frightening, and unpredictable. Even if you practise magic or have armour, you won't be having an easy time if you encounter something hostile in the wilderness.
 
 ## Map
-<img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/WorldMap/WorldMapSmall.png" alt="test" width="100%">
+<img src="https://github.com/Oneo64/Aldraheimr2ndEdition/blob/main/WorldMap/WorldMapSmall.png" alt="test" width="100%" height="auto">
